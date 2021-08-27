@@ -1,3 +1,10 @@
+# Alice's First CS193 Homework
+
+Favorite things about CS193:
+- The class seems to want to actually help me without stressing me out!
+- TAs are really nice and easy-going!
+- There are no exams!
+- A lot of my close friends are in this class!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
